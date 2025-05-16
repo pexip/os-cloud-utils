@@ -21,7 +21,7 @@ Rules-Requires-Root: no
 Vcs-Git: https://salsa.debian.org/cloud-team/cloud-utils.git
 Vcs-Browser: https://salsa.debian.org/cloud-team/cloud-utils
 Homepage: https://launchpad.net/cloud-utils
-XS-Pexip-Upstream: http://deb.debian.org/debian/ bookworm
+XS-Pexip-Upstream: http://deb.debian.org/debian/ trixie
 
 Package: cloud-guest-utils
 Architecture: all
